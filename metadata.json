@@ -1,0 +1,6 @@
+{
+  "name": "BrowserQuest Server",
+  "description": "Multiplayer game server for BrowserQuest (Server only)",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
