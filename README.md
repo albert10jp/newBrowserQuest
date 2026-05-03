@@ -6,4 +6,4 @@ The `server/` part of BrowserQuest depends on `shared/js/gametypes.js`, e.g. `Ty
 
 run `npm install -d` from here (aka prj root) rather than ./server/
 
-run `node erver/js/main.js` from here (aka prj root) rather than ./server/
+run `node server/js/main.js` from here (aka prj root) rather than ./server/
